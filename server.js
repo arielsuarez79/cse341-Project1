@@ -1,6 +1,6 @@
 const express = require("express");
 
-const mongodb = require("./data/database.js");
+const mongodb = require("./data/database");
 
 const app = express();
 
